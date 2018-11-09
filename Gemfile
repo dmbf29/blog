@@ -39,6 +39,8 @@ gem 'turbolinks', '~> 5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'bootstrap-sass'
+gem 'carrierwave', '~> 1.2'
+gem 'cloudinary'
 gem 'simple_form'
 
 group :development, :test do
